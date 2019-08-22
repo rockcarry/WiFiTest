@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">wifitest</string>
+    <string name="btn_connect">connect</string>
+</resources>
